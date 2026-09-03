@@ -53,6 +53,10 @@ A player wins when the same symbol occupies all three positions of any winning c
 - **Reset Game!** → Clears the board and starts a new game.
 - **New Game!** → Starts a fresh game.
 
+## 📸 Screenshot
+
+![Tic-Tac-Toe Game](screenshot.png)
+
 ## 👩‍💻 Author
 
 **Diya Bhuva**
