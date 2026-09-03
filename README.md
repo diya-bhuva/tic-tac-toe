@@ -55,7 +55,7 @@ A player wins when the same symbol occupies all three positions of any winning c
 
 ## 📸 Screenshot
 
-![Tic-Tac-Toe Game](screenshot.png)
+![Tic-Tac-Toe Game](Screenshot 2026-09-03 180611.png)
 
 ## 👩‍💻 Author
 
